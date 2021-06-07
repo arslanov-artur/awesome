@@ -4,8 +4,6 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![GitHub followers](https://img.shields.io/github/followers/Arslanoov.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Arslanoov?tab=followers)
 
-[![Arslanoov's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Arslanoov)](https://github.com/Arslanoov/github-readme-streak-stats)
-
 <h3 align="center">Frontend</h3>
 <p><b>Libraries</b></p>
 <p><a href="https://github.com/Arslanoov/virtual-keyboard">Virtual keyboard (TS)</a></p>
