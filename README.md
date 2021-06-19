@@ -14,6 +14,7 @@
 <p><b>Vue</b></p>
 <p><a href="https://github.com/Arslanoov/vue-task-manager">Task Manager</a></p>
 <p><a href="https://github.com/Arslanoov/messenger-pwa">Messenger (PWA)</a></p>
+<p><a href="https://github.com/Arslanoov/messenger-admin">Messenger (Admin Panel)</a></p>
 <p><a href="https://github.com/Arslanoov/nuxt-blog">Blog (SSR, Nuxt) (WIP)</a></p>
 
 <p><b>React</b></p>
