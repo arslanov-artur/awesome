@@ -148,6 +148,13 @@
     <img align="center" style="margin-right: 5px" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
     <a href="https://github.com/Arslanoov/psr-framework">PSR Framework</a>
 </p>
+<p>
+    <img align="center" style="margin-right: 5px" height="25" src="https://www.php.net/images/logos/new-php-logo.svg" />
+    <img align="center" style="margin-right: 5px" height="25" src="https://avatars.githubusercontent.com/u/468401?s=280&v=4" />
+    <img align="center" style="margin-right: 5px" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+    <img align="center" style="margin-right: 5px" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+    <a href="https://github.com/Arslanoov/bedrock-admin-panel">Bedrock Admin Panel (not updating)</a>
+</p>
 <p><b>Domain Model</b></p>
 <p>
     <a href="https://github.com/Arslanoov/vacancy-model">Vacancy Domain Model</a>
