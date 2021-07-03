@@ -32,7 +32,7 @@
     <a href="https://github.com/Arslanoov/vue-autocomplete">Autocomplete input</a>
 </p>
 
-<p><b>Vue</b></p>
+<p><b>Vue & Nuxt</b></p>
 <p>
 <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="25" height="25"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="25" height="25"/>
@@ -73,7 +73,7 @@
     <a href="https://github.com/Arslanoov/nuxt-blog">Blog (SSR, Nuxt) (WIP)</a>
 </p>
 
-<p><b>React</b></p>
+<p><b>React & Next</b></p>
 <p>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="25"/>
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="" width="25" height="25"/>
