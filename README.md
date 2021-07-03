@@ -85,7 +85,7 @@
     <img align="center" style="margin-right: 5px" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="" width="25" height="25"/>
     <img align="center" style="margin-right: 5px" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
-    <a href="https://github.com/Arslanoov/next-app">App</a>
+    <a href="https://github.com/Arslanoov/next-app">App (WIP)</a>
 </p>
 <p>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="25"/>
@@ -123,6 +123,14 @@
     <img align="center" style="margin-right: 5px" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="" />
     <a href="https://github.com/Arslanoov/symfony-user-template">User template</a>
 </p>
+<p>
+    <img align="center" style="margin-right: 5px" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="" />
+    <img align="center" style="margin-right: 5px" height="25" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" />    
+    <img align="center" style="margin-right: 5px" height="25" src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="" />
+    <img align="center" style="margin-right: 5px" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="" />
+    <img align="center" style="margin-right: 5px" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="" />
+    <a href="https://github.com/Arslanoov/vacancy-app">Vacancy app</a>
+</p>
 <p><b>PSR</b></p>
 <p>
     <img align="center" style="margin-right: 5px" height="25" src="https://www.php.net/images/logos/new-php-logo.svg" />
@@ -139,6 +147,17 @@
     <img align="center" style="margin-right: 5px" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
     <img align="center" style="margin-right: 5px" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
     <a href="https://github.com/Arslanoov/psr-framework">PSR Framework</a>
+</p>
+<p>
+    <img align="center" style="margin-right: 5px" height="25" src="https://www.php.net/images/logos/new-php-logo.svg" />
+    <img align="center" style="margin-right: 5px" height="25" src="https://avatars.githubusercontent.com/u/468401?s=280&v=4" />
+    <img align="center" style="margin-right: 5px" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+    <img align="center" style="margin-right: 5px" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+    <a href="https://github.com/Arslanoov/bedrock-admin-panel">Bedrock Admin Panel (not updating)</a>
+</p>
+<p><b>Domain Model</b></p>
+<p>
+    <a href="https://github.com/Arslanoov/vacancy-model">Vacancy Domain Model</a>
 </p>
 
 <p><b>Laravel (deprecated projects)</b></p>
