@@ -48,20 +48,20 @@
 
 <h3 align="center">React & Next</h3>
 <p align="center">
-<a target="_blank" href="https://github.com/Arslanoov/react-weather">Weather App</a> <br>
+<a href="https://github.com/Arslanoov/react-weather">Weather App</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
-<a target="_blank" href="https://github.com/Arslanoov/next-app">App (WIP)</a> <br>
+<a href="https://github.com/Arslanoov/next-app">App (WIP)</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
-<a target="_blank" href="https://github.com/Arslanoov/react-market">Market (WIP)</a> <br>
+<a href="https://github.com/Arslanoov/react-market">Market (WIP)</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
@@ -70,11 +70,11 @@
 
 <h3 align="center">Layouts</h3>
 <p align="center">
-<a target="_blank" href="https://github.com/Arslanoov/rhea-layout">Rhea</a> <br>
+<a href="https://github.com/Arslanoov/rhea-layout">Rhea</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"/>
 </p>
 <p align="center">
-<a target="_blank" href="https://github.com/Arslanoov/webpaint-layout">Webpaint</a> <br>
+<a href="https://github.com/Arslanoov/webpaint-layout">Webpaint</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"/>
 </p>
 
@@ -92,13 +92,13 @@
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
-    <a target="_blank" href="https://github.com/Arslanoov/ts-library-template">TS library template</a> <br>
+    <a href="https://github.com/Arslanoov/ts-library-template">TS library template</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
-    <a target="_blank" href="https://github.com/Arslanoov/vue-autocomplete">Autocomplete input</a> <br>
+    <a href="https://github.com/Arslanoov/vue-autocomplete">Autocomplete input</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
@@ -110,7 +110,7 @@
 <h2 align="center">Backend</h3>
 <h3 align="center"><b>Symfony</b></h3>
 <p align="center">
-<a target="_blank" href="https://github.com/Arslanoov/messenger-api">Messenger API</a> <br>
+<a href="https://github.com/Arslanoov/messenger-api">Messenger API</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" height="40"/>    
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="" height="40"/>
@@ -118,7 +118,7 @@
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="" height="40"/>
 </p>
 <p align="center">
-<a target="_blank" href="https://github.com/Arslanoov/symfony-user-template">User template</a> <br>
+<a href="https://github.com/Arslanoov/symfony-user-template">User template</a> <br>
     <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="" />
     <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" />    
     <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="" />
@@ -126,7 +126,7 @@
     <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="" />
 </p>
 <p align="center">
-<a target="_blank" href="https://github.com/Arslanoov/vacancy-app">Vacancy app</a> <br>
+<a href="https://github.com/Arslanoov/vacancy-app">Vacancy app</a> <br>
     <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="" />
     <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" />    
     <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="" />
@@ -135,7 +135,7 @@
 </p>
 <h3 align="center"><b>PSR</b></h3>
 <p align="center">
-<a target="_blank" href="https://github.com/Arslanoov/todo-api">ToDo API</a> <br>
+<a href="https://github.com/Arslanoov/todo-api">ToDo API</a> <br>
     <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
     <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" />    
     <img align="center" style="margin-right: 5px" height="40" src="https://avatars.githubusercontent.com/u/468401?s=280&v=4" />
@@ -143,7 +143,7 @@
     <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
 </p>
 <p align="center">
-<a target="_blank" href="https://github.com/Arslanoov/psr-framework">PSR Framework</a> <br>
+<a href="https://github.com/Arslanoov/psr-framework">PSR Framework</a> <br>
     <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
     <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" />    
     <img align="center" style="margin-right: 5px" height="40" src="https://avatars.githubusercontent.com/u/468401?s=280&v=4" />
@@ -151,7 +151,7 @@
     <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
 </p>
 <p align="center">
-    <a target="_blank" href="https://github.com/Arslanoov/bedrock-admin-panel">Bedrock Admin Panel (not updating)</a> <br>
+    <a href="https://github.com/Arslanoov/bedrock-admin-panel">Bedrock Admin Panel (not updating)</a> <br>
     <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
     <img align="center" style="margin-right: 5px" height="40" src="https://avatars.githubusercontent.com/u/468401?s=280&v=4" />
     <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
@@ -160,13 +160,13 @@
 
 <h3 align="center"><b>Domain Model</b></h3>
 <p align="center">
-    <a target="_blank" href="https://github.com/Arslanoov/vacancy-model">Vacancy Domain Model</a>
+    <a href="https://github.com/Arslanoov/vacancy-model">Vacancy Domain Model</a>
 </p>
 
 <h3 align="center"><b>Laravel (deprecated projects)</b></h3>
-<p align="center"><a target="_blank" href="https://github.com/Arslanoov/laravel-store">Store</a></p>
+<p align="center"><a href="https://github.com/Arslanoov/laravel-store">Store</a></p>
 
 <h3 align="center"><b>Yii2 (deprecated projects)</b></h3>
-<p align="center"><a target="_blank" href="https://github.com/Arslanoov/yii2-blog">Blog</a></p>
-<p align="center"><a target="_blank" href="https://github.com/Arslanoov/yii2-portfolio">Portfolio</a></p>
-<p align="center"><a target="_blank" href="https://github.com/Arslanoov/yii2-start-package">Start package</a></p>
+<p align="center"><a href="https://github.com/Arslanoov/yii2-blog">Blog</a></p>
+<p align="center"><a href="https://github.com/Arslanoov/yii2-portfolio">Portfolio</a></p>
+<p align="center"><a href="https://github.com/Arslanoov/yii2-start-package">Start package</a></p>
