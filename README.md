@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Arslanoov.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Arslanoov?tab=followers)
 
 <h2 align="center">Frontend</h3>
-<hr>
+
 <h3 align="center"><b>Vue & Nuxt</b></h3>
 <p align="center">
     <a style="color: white" href="https://github.com/Arslanoov/vue-task-manager">Task Manager</a> <br> 
@@ -46,8 +46,6 @@
     <img align="center" style="margin-right: 5px" src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="" width="40" />
 </p>
 
-<hr>
-
 <h3 align="center">React & Next</h3>
 <p align="center">
 <a href="https://github.com/Arslanoov/react-weather">Weather App</a> <br>
@@ -70,8 +68,6 @@
     <img align="center" style="margin-right: 5px" src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="" width="40" />
 </p>
 
-<hr>
-
 <h3 align="center">Layouts</h3>
 <p align="center">
 <a href="https://github.com/Arslanoov/rhea-layout">Rhea</a> <br>
@@ -81,8 +77,6 @@
 <a href="https://github.com/Arslanoov/webpaint-layout">Webpaint</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"/>
 </p>
-
-<hr>
 
 <h3 align="center"><b>Libraries</b></h3>
 <p align="center">
@@ -110,8 +104,6 @@
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
-
-<hr>
 
 <h2 align="center">Backend</h3>
 <h3 align="center"><b>Symfony</b></h3>
@@ -164,19 +156,13 @@
     <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
 </p>
 
-<hr>
-
 <h3 align="center"><b>Domain Model</b></h3>
 <p align="center">
     <a href="https://github.com/Arslanoov/vacancy-model">Vacancy Domain Model</a>
 </p>
 
-<hr>
-
 <h3 align="center"><b>Laravel (deprecated projects)</b></h3>
 <p align="center"><a href="https://github.com/Arslanoov/laravel-store">Store</a></p>
-
-<hr>
 
 <h3 align="center"><b>Yii2 (deprecated projects)</b></h3>
 <p align="center"><a href="https://github.com/Arslanoov/yii2-blog">Blog</a></p>
