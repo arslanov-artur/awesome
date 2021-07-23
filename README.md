@@ -105,6 +105,8 @@
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 
+<br>
+
 <h2 align="center">Backend</h3>
 <h3 align="center"><b>Symfony</b></h3>
 <p align="center">
