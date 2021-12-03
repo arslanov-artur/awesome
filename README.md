@@ -1,10 +1,10 @@
-<h1>My projects</h2>
+<h1>My projects</h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![GitHub followers](https://img.shields.io/github/followers/Arslanoov.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Arslanoov?tab=followers)
 
-<h2 align="center">Frontend</h3>
+<h2 align="center">Frontend</h2>
 
 <h3 align="center"><b>Vue & Nuxt</b></h3>
 <p align="center">
@@ -48,7 +48,15 @@
 
 <h3 align="center">React & Next</h3>
 <p align="center">
-<a href="https://github.com/Arslanoov/react-weather">Weather App</a> <br>
+    <a href="https://github.com/Arslanoov/red">arslanoov.red</a> <br>
+    <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
+    <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />    
+    <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />    
+    <img align="center" style="margin-right: 5px" height="15" src="https://mikro-orm.io/img/logo.svg" />    
+    <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
+</p>
+<p align="center">
+    <a href="https://github.com/Arslanoov/react-weather">Weather App</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
