@@ -9,7 +9,6 @@
 <h3 align="center"><b>Vue & Nuxt</b></h3>
 <p align="center">
     <a style="color: white" href="https://github.com/Arslanoov/vue-task-manager">Task Manager</a> <br> 
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="" width="40" height="40"/>
@@ -19,7 +18,6 @@
 </p>
 <p align="center">
     <a style="color: white" href="https://github.com/Arslanoov/messenger-pwa">Messenger Frontend</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://avatars.githubusercontent.com/u/77578415?v=4" alt="" width="40" height="40"/>
@@ -30,7 +28,6 @@
 </p>
 <p align="center">
     <a style="color: white" href="https://github.com/Arslanoov/messenger-admin">Messenger (Admin Panel)</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://buefy.org/static/img/buefy.1d65c18.png" alt="" width="40" />
@@ -38,7 +35,6 @@
 </p>
 <p align="center">
     <a style="color: white" href="https://github.com/Arslanoov/nuxt-blog">Blog (WIP)</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://nuts-agency.ru/upload/iblock/c98/c9879095ed083e4a3076480c3573b87f.png" alt="" width="75" />
@@ -48,7 +44,14 @@
 
 <h3 align="center">React & Next</h3>
 <p align="center">
-    <a href="https://github.com/Arslanoov/red">arslanoov.red</a> <br>
+    <a href="https://github.com/Arslanoov/hackernews-clone">HackerNews Clone</a> <br>
+    <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>
+    <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" />
+    <img style="margin-right: 15px" height="40px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt=""/>
+    <img height="40px" src="https://user-images.githubusercontent.com/51407990/149630941-61334394-9db3-47dc-83f5-b6bdcabdde0d.png" alt="" />
+</p>
+<p align="center">
+    <a href="https://github.com/Arslanoov/red">Personal Website</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />    
     <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />    
@@ -57,12 +60,14 @@
 </p>
 <p align="center">
     <a href="https://github.com/Arslanoov/react-weather">Weather App</a> <br>
+    <img align="center" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>    
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
 <a href="https://github.com/Arslanoov/next-app">App (WIP)</a> <br>
+    <img align="center" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>    
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="" width="40" height="40"/>
@@ -70,6 +75,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Arslanoov/react-market">Market (WIP)</a> <br>
+<img align="center" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
@@ -89,25 +95,21 @@
 <h3 align="center"><b>Libraries</b></h3>
 <p align="center">
     <a style="color: white" href="https://github.com/Arslanoov/virtual-keyboard">Virtual keyboard</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
     <a style="color: white" href="https://github.com/Arslanoov/date-picker">Date picker</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
     <a href="https://github.com/Arslanoov/ts-library-template">TS library template</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
     <a href="https://github.com/Arslanoov/vue-autocomplete">Autocomplete input</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
