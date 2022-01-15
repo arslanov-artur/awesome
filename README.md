@@ -82,16 +82,6 @@
     <img align="center" style="margin-right: 5px" src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="" width="40" />
 </p>
 
-<h3 align="center">Layouts</h3>
-<p align="center">
-<a href="https://github.com/Arslanoov/rhea-layout">Rhea</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"/>
-</p>
-<p align="center">
-<a href="https://github.com/Arslanoov/webpaint-layout">Webpaint</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"/>
-</p>
-
 <h3 align="center"><b>Libraries</b></h3>
 <p align="center">
     <a style="color: white" href="https://github.com/Arslanoov/virtual-keyboard">Virtual keyboard</a> <br>
@@ -115,7 +105,15 @@
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 
-<br>
+<h3 align="center">Layouts</h3>
+<p align="center">
+<a href="https://github.com/Arslanoov/rhea-layout">Rhea</a> <br>
+    <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"/>
+</p>
+<p align="center">
+<a href="https://github.com/Arslanoov/webpaint-layout">Webpaint</a> <br>
+    <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"/>
+</p>
 
 <h2 align="center">Backend</h3>
 <h3 align="center"><b>Symfony</b></h3>
