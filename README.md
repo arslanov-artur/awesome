@@ -48,6 +48,7 @@
     <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>
     <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" />
     <img style="margin-right: 15px" height="40px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt=""/>
+    <img style="margin-right: 15px" height="40px" src="https://mobx.js.org/img/mobx.png" alt=""/>
     <img height="40px" src="https://user-images.githubusercontent.com/51407990/149630941-61334394-9db3-47dc-83f5-b6bdcabdde0d.png" alt="" />
 </p>
 <p align="center">
