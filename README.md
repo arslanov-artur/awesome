@@ -84,6 +84,15 @@
     <img align="center" style="margin-right: 5px" src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="" width="40" />
 </p>
 
+<h3 align="center">Angular & Other</h3>
+<p align="center">
+    <a href="https://github.com/Arslanoov/chess-game">Chess Game (WIP)</a> <br>
+    <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>
+    <img height="45px" src="https://styles.redditmedia.com/t5_36qrt/styles/communityIcon_essg5v68ccu01.png" alt="" />
+    <img height="40px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="" />
+    <img height="40px" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.IzZqdsWtWHs8NRRx_Vfy2HB5PMKb6Z-UcCq0fVg7-Xc" alt="" />
+</p>
+
 <h3 align="center"><b>Libraries</b></h3>
 <p align="center">
     <a style="color: white" href="https://github.com/Arslanoov/virtual-keyboard">Virtual keyboard</a> <br>
