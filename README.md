@@ -8,7 +8,7 @@
 
 <h3 align="center"><b>Vue & Nuxt</b></h3>
 <p align="center">
-    <a style="color: white" href="https://github.com/Arslanoov/vue-task-manager">Task Manager</a> <br> 
+    <a style="color: white" href="https://github.com/Arslanoov/project-manager-spa">Project Manager</a> <br> 
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="" width="40" height="40"/>
@@ -17,7 +17,7 @@
     <img align="center" width="40" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" />
 </p>
 <p align="center">
-    <a style="color: white" href="https://github.com/Arslanoov/messenger-pwa">Messenger Frontend</a> <br>
+    <a style="color: white" href="https://github.com/Arslanoov/messenger-pwa">Messenger</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://avatars.githubusercontent.com/u/77578415?v=4" alt="" width="40" height="40"/>
@@ -34,7 +34,7 @@
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
-    <a style="color: white" href="https://github.com/Arslanoov/nuxt-blog">Blog (WIP)</a> <br>
+    <a style="color: white" href="https://github.com/Arslanoov/nuxt-blog">Blog (SSR) (WIP)</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://nuts-agency.ru/upload/iblock/c98/c9879095ed083e4a3076480c3573b87f.png" alt="" width="75" />
@@ -68,7 +68,7 @@
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
-<a href="https://github.com/Arslanoov/next-app">App (WIP)</a> <br>
+<a href="https://github.com/Arslanoov/next-app">Portfolio App (WIP)</a> <br>
     <img align="center" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>    
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
@@ -172,7 +172,7 @@
 </p>
 <h3 align="center"><b>PSR</b></h3>
 <p align="center">
-<a href="https://github.com/Arslanoov/todo-api">ToDo API</a> <br>
+<a href="https://github.com/Arslanoov/project-manager-api">Project Manager API</a> <br>
     <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
     <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" />    
     <img align="center" style="margin-right: 5px" height="40" src="https://avatars.githubusercontent.com/u/468401?s=280&v=4" />
