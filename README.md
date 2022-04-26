@@ -35,6 +35,12 @@
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
+    <a style="color: white" href="https://github.com/Arslanoov/currency-calculator">Currency Calculator</a> <br>
+    <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
+<img align="center" style="margin-right: 5px" width="40" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" />
+    <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
+</p>
+<p align="center">
     <a style="color: white" href="https://github.com/Arslanoov/nuxt-blog">Blog (SSR) (WIP)</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
