@@ -9,7 +9,7 @@
 
 <h3 align="center"><b>Vue & Nuxt</b></h3>
 <p align="center">
-    <a style="color: white" href="https://github.com/Arslanoov/project-manager-spa">Project Manager</a> <br> 
+    <a href="https://github.com/Arslanoov/project-manager-spa">Project Manager</a> <br> 
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="" width="40" height="40"/>
@@ -18,7 +18,7 @@
     <img align="center" width="40" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" />
 </p>
 <p align="center">
-    <a style="color: white" href="https://github.com/Arslanoov/messenger-pwa">Messenger</a> <br>
+    <a href="https://github.com/Arslanoov/messenger-pwa">Messenger</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://avatars.githubusercontent.com/u/77578415?v=4" alt="" width="40" height="40"/>
@@ -28,20 +28,26 @@
     <img align="center" width="40" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" />
 </p>
 <p align="center">
-    <a style="color: white" href="https://github.com/Arslanoov/messenger-admin">Messenger (Admin Panel)</a> <br>
+    <a href="https://github.com/Arslanoov/messenger-admin">Messenger (Admin Panel)</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://buefy.org/static/img/buefy.1d65c18.png" alt="" width="40" />
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
-    <a style="color: white" href="https://github.com/Arslanoov/currency-calculator">Currency Calculator</a> <br>
+    <a href="https://github.com/Arslanoov/currency-calculator">Currency Calculator</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
 <img align="center" style="margin-right: 5px" width="40" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" />
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
-    <a style="color: white" href="https://github.com/Arslanoov/nuxt-blog">Blog (SSR) (WIP)</a> <br>
+    <a href="https://github.com/Arslanoov/vue-autocomplete">Autocomplete input (library)</a> <br>
+    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
+    <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
+    <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
+</p>
+<p align="center">
+    <a href="https://github.com/Arslanoov/nuxt-blog">Blog (SSR) (WIP)</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" src="https://nuts-agency.ru/upload/iblock/c98/c9879095ed083e4a3076480c3573b87f.png" alt="" width="75" />
@@ -50,6 +56,14 @@
 </p>
 
 <h3 align="center">React & Next</h3>
+<p align="center">
+    <a href="https://github.com/Arslanoov/react-collection-ui">React Collection UI (library)</a> <br>
+    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" />
+    <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" />
+    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="SASS" />    
+    <img height="50px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest" />
+    <img height="50px" src="https://iconape.com/wp-content/files/qa/371510/svg/371510.svg" alt="Jest" />
+</p>
 <p align="center">
     <a href="https://github.com/Arslanoov/hackernews-clone">HackerNews Clone</a> <br>
     <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>
@@ -118,26 +132,20 @@
     <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>
 </p>
 
-<h3 align="center"><b>Libraries</b></h3>
+<h3 align="center"><b>TypeScript Libraries</b></h3>
 <p align="center">
-    <a style="color: white" href="https://github.com/Arslanoov/virtual-keyboard">Virtual keyboard</a> <br>
+    <a href="https://github.com/Arslanoov/virtual-keyboard">Virtual keyboard</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
-    <a style="color: white" href="https://github.com/Arslanoov/date-picker">Date picker</a> <br>
+    <a href="https://github.com/Arslanoov/date-picker">Date picker</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
     <a href="https://github.com/Arslanoov/ts-library-template">TS library template</a> <br>
     <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
-    <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
-</p>
-<p align="center">
-    <a href="https://github.com/Arslanoov/vue-autocomplete">Autocomplete input</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
-    <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 
@@ -204,13 +212,35 @@
 
 <h3 align="center"><b>Domain Model</b></h3>
 <p align="center">
-    <a href="https://github.com/Arslanoov/vacancy-model">Vacancy Domain Model</a>
+    <a href="https://github.com/Arslanoov/vacancy-model">Vacancy Domain Model</a> <br>
+    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
 </p>
 
 <h3 align="center"><b>Laravel (deprecated projects)</b></h3>
-<p align="center"><a href="https://github.com/Arslanoov/laravel-store">Store</a></p>
+<p align="center">
+    <a href="https://github.com/Arslanoov/laravel-store">Store</a> <br>
+    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
+    <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+</p>
 
 <h3 align="center"><b>Yii2 (deprecated projects)</b></h3>
-<p align="center"><a href="https://github.com/Arslanoov/yii2-blog">Blog</a></p>
-<p align="center"><a href="https://github.com/Arslanoov/yii2-portfolio">Portfolio</a></p>
-<p align="center"><a href="https://github.com/Arslanoov/yii2-start-package">Start package</a></p>
+<p align="center">
+    <a href="https://github.com/Arslanoov/yii2-blog">Blog</a> <br>
+    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
+    <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" /> <br>
+    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/yii_logo_dark.svg" />
+</p>
+<p align="center">
+    <a href="https://github.com/Arslanoov/yii2-portfolio">Portfolio</a> <br>
+    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
+    <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" /> <br>
+    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/yii_logo_dark.svg" />
+</p>
+<p align="center">
+    <a href="https://github.com/Arslanoov/yii2-start-package">Start package</a> <br>
+    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
+    <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" /> <br>
+    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/yii_logo_dark.svg" />
+</p>
