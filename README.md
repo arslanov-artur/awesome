@@ -230,17 +230,17 @@
     <a href="https://github.com/Arslanoov/yii2-blog">Blog</a> <br>
     <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
     <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" /> <br>
-    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/yii_logo_dark.svg" />
+    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/design/logo/yii3_full_for_light.svg" />
 </p>
 <p align="center">
     <a href="https://github.com/Arslanoov/yii2-portfolio">Portfolio</a> <br>
     <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
     <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" /> <br>
-    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/yii_logo_dark.svg" />
+    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/design/logo/yii3_full_for_light.svg" />
 </p>
 <p align="center">
     <a href="https://github.com/Arslanoov/yii2-start-package">Start package</a> <br>
     <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
     <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" /> <br>
-    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/yii_logo_dark.svg" />
+    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/design/logo/yii3_full_for_light.svg" />
 </p>
