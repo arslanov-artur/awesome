@@ -35,6 +35,12 @@
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 <p align="center">
+    <a href="https://github.com/Arslanoov/portfolio">Portfolio Website</a> <br>
+    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
+    <img align="center" style="margin-right: 5px" src="https://pinia.vuejs.org/logo.svg" alt="" width="40" height="40"/>
+    <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
+</p>
+<p align="center">
     <a href="https://github.com/Arslanoov/currency-calculator">Currency Calculator</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" width="40" height="40"/>
 <img align="center" style="margin-right: 5px" width="40" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" />
@@ -73,7 +79,7 @@
     <img height="40px" src="https://user-images.githubusercontent.com/51407990/149630941-61334394-9db3-47dc-83f5-b6bdcabdde0d.png" alt="" />
 </p>
 <p align="center">
-    <a href="https://github.com/Arslanoov/red">Personal Website</a> <br>
+    <a href="https://github.com/Arslanoov/red">Portfolio Website (old)</a> <br>
     <img align="center" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>    
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />    
