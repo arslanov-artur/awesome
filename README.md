@@ -155,6 +155,13 @@
     <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
 
+<h3 align="center"><b>Other</b></h3>
+<p align="center">
+    <a href="https://github.com/Arslanoov/life-sandbox">Life SandBox</a> <br>
+    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
+    <img align="center" style="margin-right: 5px" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
+</p>
+
 <h3 align="center">Layouts</h3>
 <p align="center">
 <a href="https://github.com/Arslanoov/rhea-layout">Rhea</a> <br>
