@@ -257,3 +257,29 @@
     <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" /> <br>
     <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/design/logo/yii3_full_for_light.svg" />
 </p>
+
+<h3 align="center">
+    <a href="https://github.com/Browser-ProFiles/.github">
+        Anti Detect Browser
+    </a>
+</h3>
+<p align="center">
+    <a href="https://github.com/Browser-ProFiles/frontend">Frontend</a> <br>
+    <img align="center" style="margin-right: 15px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="" />
+    <img align="center" style="margin-right: 15px" height="50px" src="https://pinia.vuejs.org/logo.svg" alt="" />
+    <img align="center" style="margin-right: 15px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
+</p>
+<p align="center">
+    <a href="https://github.com/Browser-ProFiles/server">Server</a> <br>
+     <img align="center" style="margin-right: 15px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="" />
+    <img align="center" style="margin-right: 15px" height="50px" src="https://sequelize.org/img/logo.svg" alt="" />
+</p>
+<p align="center">
+    <a href="https://github.com/Browser-ProFiles/desktop">Desktop</a> <br>
+    <img align="center" style="margin-right: 15px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" alt="" />
+    <img align="center" style="margin-right: 15px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="" />
+    <img align="center" style="margin-right: 15px" height="50px" src="https://www.svgrepo.com/show/354228/puppeteer.svg" alt="" />
+</p>
+<p align="center">
+    <a href="https://github.com/Browser-ProFiles/landing">Landing</a> <br>
+</p>
