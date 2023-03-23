@@ -259,7 +259,7 @@
 </p>
 
 <h3 align="center">
-    <a href="https://github.com/Browser-ProFiles/.github">
+    <a href="https://github.com/Browser-ProFiles">
         Anti Detect Browser
     </a>
 </h3>
