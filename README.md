@@ -79,7 +79,7 @@
     <img height="40px" src="https://user-images.githubusercontent.com/51407990/149630941-61334394-9db3-47dc-83f5-b6bdcabdde0d.png" alt="" />
 </p>
 <p align="center">
-    <a href="https://github.com/Arslanoov/red">Portfolio Website (old)</a> <br>
+    <a href="https://github.com/Arslanoov/red">Portfolio Website</a> <br>
     <img align="center" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=""/>    
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="" height="40"/>
     <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />    
