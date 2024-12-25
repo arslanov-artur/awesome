@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![Views](https://views.whatilearened.today/views/github/Arslanoov/arslanoov.svg)](https://views.whatilearened.today/views/github/Arslanoov/arslanoov.svg)
-[![GitHub followers](https://img.shields.io/github/followers/Arslanoov.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Arslanoov?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/arthur-arslanov.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/arthur-arslanov?tab=followers)
 
 <h2 align="center">Frontend</h2>
 
