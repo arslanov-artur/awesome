@@ -5,8 +5,6 @@
 [![Views](https://views.whatilearened.today/views/github/Arslanoov/arslanoov.svg)](https://views.whatilearened.today/views/github/Arslanoov/arslanoov.svg)
 [![GitHub followers](https://img.shields.io/github/followers/arthur-arslanov.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/arthur-arslanov?tab=followers)
 
-<h2 align="center">Frontend</h2>
-
 <h3 align="center"><b>Vue & Nuxt</b></h3>
 <p align="center">
     <a href="https://github.com/Arslanoov/project-manager-spa">Project Manager</a> <br> 
@@ -171,90 +169,3 @@
 <a href="https://github.com/Arslanoov/webpaint-layout">Webpaint</a> <br>
     <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"/>
 </p>
-
-<h2 align="center">Backend</h3>
-<h3 align="center"><b>Symfony</b></h3>
-<p align="center">
-<a href="https://github.com/Arslanoov/messenger-api">Messenger API</a> <br>
-    <img align="center" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="" height="40"/>
-    <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" height="40"/>    
-    <img align="center" style="margin-right: 5px" src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="" height="40"/>
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="" height="40"/>
-    <img align="center" style="margin-right: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="" height="40"/>
-</p>
-<p align="center">
-<a href="https://github.com/Arslanoov/symfony-user-template">User template</a> <br>
-    <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" />    
-    <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="" />
-</p>
-<p align="center">
-<a href="https://github.com/Arslanoov/vacancy-app">Vacancy app</a> <br>
-    <img align="center" style="margin-right: 5px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" />    
-    <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="" />
-</p>
-<h3 align="center"><b>PSR</b></h3>
-<p align="center">
-<a href="https://github.com/Arslanoov/project-manager-api">Project Manager API</a> <br>
-    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" />    
-    <img align="center" style="margin-right: 5px" height="40" src="https://avatars.githubusercontent.com/u/468401?s=280&v=4" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-</p>
-<p align="center">
-<a href="https://github.com/Arslanoov/psr-framework">PSR Framework</a> <br>
-    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://cdn.worldvectorlogo.com/logos/doctrine.svg" alt="" />    
-    <img align="center" style="margin-right: 5px" height="40" src="https://avatars.githubusercontent.com/u/468401?s=280&v=4" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-</p>
-<p align="center">
-    <a href="https://github.com/Arslanoov/bedrock-admin-panel">Bedrock Admin Panel (not updating)</a> <br>
-    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://avatars.githubusercontent.com/u/468401?s=280&v=4" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-</p>
-
-<h3 align="center"><b>Domain Model</b></h3>
-<p align="center">
-    <a href="https://github.com/Arslanoov/vacancy-model">Vacancy Domain Model</a> <br>
-    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
-</p>
-
-<h3 align="center"><b>Laravel (deprecated projects)</b></h3>
-<p align="center">
-    <a href="https://github.com/Arslanoov/laravel-store">Store</a> <br>
-    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
-    <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-    <img align="center" style="margin-right: 5px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-</p>
-
-<h3 align="center"><b>Yii2 (deprecated projects)</b></h3>
-<p align="center">
-    <a href="https://github.com/Arslanoov/yii2-blog">Blog</a> <br>
-    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
-    <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" /> <br>
-    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/design/logo/yii3_full_for_light.svg" />
-</p>
-<p align="center">
-    <a href="https://github.com/Arslanoov/yii2-portfolio">Portfolio</a> <br>
-    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
-    <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" /> <br>
-    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/design/logo/yii3_full_for_light.svg" />
-</p>
-<p align="center">
-    <a href="https://github.com/Arslanoov/yii2-start-package">Start package</a> <br>
-    <img align="center" style="margin-right: 5px" height="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
-    <img align="center" style="margin-right: 5px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" /> <br>
-    <img align="center" style="margin-right: 5px" height="35" src="https://www.yiiframework.com/image/design/logo/yii3_full_for_light.svg" />
-</p>
-
