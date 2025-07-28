@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![Views](https://views.whatilearened.today/views/github/Arslanoov/arslanoov.svg)](https://views.whatilearened.today/views/github/Arslanoov/arslanoov.svg)
-[![GitHub followers](https://img.shields.io/github/followers/arthur-arslanov.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/arslanov-artur?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/arslanov-artur?style=social&label=Follow&maxAge=2592000)](https://github.com/arslanov-artur?tab=followers)
 
 <h3 align="center"><b>Vue & Nuxt</b></h3>
 <p align="center">
